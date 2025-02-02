@@ -1,11 +1,11 @@
 {
   "usman_modz_updater": [
     {
- "version":"2.24.15.78",
+ "version":"2.24.14.77",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
-Base: 2.24.15.78
+Base: 2.24.14.77
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
