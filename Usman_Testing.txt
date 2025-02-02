@@ -1,18 +1,18 @@
 {
   "usman_modz_updater": [
     {
- "version":"9.62",
+ "version":"2.24.15.78",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
-Base: 2.23 1.76
+Base: 2.24.15.78
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 Nuevo Systema de Actualización 
 
  Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
+"download":"https://youtu.be/Cg3VIFW9YJg?si=eRMpT3VOugUVBC-a"
 }
   ]
 }
