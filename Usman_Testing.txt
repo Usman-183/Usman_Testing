@@ -1,11 +1,11 @@
 {
   "usman_modz_updater": [
     {
- "version":"2.24.14.77",
+ "version":"2.24.16.78",
  "title":"Update Disponible",
  "description":"WhatsApp Pro
 
-Base: 2.24.14.77
+Base: 2.24.16.78
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
