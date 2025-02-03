@@ -3,16 +3,16 @@
     {
  "version":"2.24.15.78",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"WhatsApp Pro
 
 Base: 2.24.15.78
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+Please Subscribe The Usman Modz YouTube Channel
 
  Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/Cg3VIFW9YJg?si=eRMpT3VOugUVBC-a"
+"download":"https://chat.whatsapp.com/HywD7maKqQwFmC4h1a3042"
 }
   ]
 }
